@@ -100,3 +100,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 - Pradhan Mantri Mudra Yojana (PMMY) guidelines.
 - Open-source libraries and contributors.
+
+Thank you for checking out the Mudra Loan Project.  
+If you find this project useful, feel free to star the repository and contribute to make it even better.
